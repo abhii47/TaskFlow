@@ -1,0 +1,8 @@
+- [x] Update package.json to remove TypeScript dependencies (@types/react, @types/react-dom, typescript, typescript-eslint)
+- [x] Create vite.config.js with JavaScript equivalent of vite.config.ts
+- [x] Delete vite.config.ts
+- [x] Delete tsconfig.json
+- [x] Delete tsconfig.app.json
+- [x] Delete tsconfig.node.json
+- [x] Delete src/vite-env.d.ts
+- [x] Run npm install to update package-lock.json

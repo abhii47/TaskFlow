@@ -124,7 +124,7 @@ function App() {
             />
           )}
           
-          <main className={`flex-1 ${showSidebar ? 'ml-0 lg:ml-64' : ''}`}>
+          <main className={`flex-1 ${showSidebar ? 'ml-0 lg:ml-30' : ''}`}>
             <AnimatePresence mode="wait">
               <Routes>
                 <Route path="/" element={<LandingPage />} />
